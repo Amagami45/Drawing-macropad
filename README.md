@@ -30,6 +30,15 @@ The macropad runs on **CircuitPython**.
 - **Key 5:** Color Picker
 
 The OLED displays the current action.
+### Bill of Materials (BOM)
+- 1× Seeed Studio XIAO RP2040  
+- 1× EC11 encoder
+- 1× OLED displey
+- 5× switches
+- 5× keycaps 
+- 4× M3 screws 
+- 1× own PCB  
+
 ##  Screenshots
 <img width="384" height="447" alt="Snímek obrazovky 2026-03-11 143620" src="https://github.com/user-attachments/assets/a26729ef-f328-4829-8703-66bc6b874025" />
 <img width="804" height="465" alt="Snímek obrazovky 2026-03-11 143536" src="https://github.com/user-attachments/assets/854bdf5b-8c13-49d7-a565-d135f74e7b12" />
