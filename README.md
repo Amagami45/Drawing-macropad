@@ -44,6 +44,7 @@ The OLED displays the current action.
 <img width="804" height="465" alt="Snímek obrazovky 2026-03-11 143536" src="https://github.com/user-attachments/assets/854bdf5b-8c13-49d7-a565-d135f74e7b12" />
 <img width="922" height="592" alt="Snímek obrazovky 2026-03-11 151124" src="https://github.com/user-attachments/assets/2d23b043-60bf-4127-9c84-05506f1aa1dc" />
 <img width="1035" height="658" alt="Snímek obrazovky 2026-03-11 151046" src="https://github.com/user-attachments/assets/96a72574-a897-40d3-b374-f891c691cfb8" />
+<img width="544" height="573" alt="Snímek obrazovky 2026-03-13 140457" src="https://github.com/user-attachments/assets/893c1b7a-730d-4834-bd68-a70f768c4496" />
 
 
 
